@@ -58,7 +58,7 @@ The Power BI dashboard includes:
 - `dashboard_screenshot.png` - Dashboard preview image
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Conclusion
 This project demonstrates beginner-level data analysis skills using SQL and Power BI. It shows how raw sales data can be transformed into meaningful business insights through SQL queries and interactive dashboard visualizations.
