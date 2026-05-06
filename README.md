@@ -56,10 +56,9 @@ The Power BI dashboard includes:
 - `analysis_queries.sql` - SQL queries used for analysis
 - `retail_sales_dashboard.pbix` - Power BI dashboard file
 - `dashboard_screenshot.png` - Dashboard preview image
-- `insights.md` - Summary of findings
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot)
 
 ## Conclusion
 This project demonstrates beginner-level data analysis skills using SQL and Power BI. It shows how raw sales data can be transformed into meaningful business insights through SQL queries and interactive dashboard visualizations.
