@@ -52,7 +52,7 @@ The Power BI dashboard includes:
 - Payment method analysis shows customer payment preferences.
 
 ## Files Included
-- `retail_sales_dataset.sql` - SQL dataset creation file
+- `retail_sales.sql` - SQL dataset creation file
 - `analysis_queries.sql` - SQL queries used for analysis
 - `retail_sales_dashboard.pbix` - Power BI dashboard file
 - `dashboard_screenshot.png` - Dashboard preview image
